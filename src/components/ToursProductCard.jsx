@@ -9,7 +9,7 @@ import { FaRegHeart } from "react-icons/fa";
 function ToursProductCard() {
   return (
     <div className="w-screen lg:px-5 bg-[radial-gradient(ellipse_at_left_bottom,_var(--tw-gradient-stops))] from-[#d5e4ea] via-zinc-100 to-zinc-100">
-      <div className="text-center lg:py-16 pt-8 lg:pt-0">
+      <div className="text-center lg:py-16 pt-8 lg:pt-10">
         <h1 className="font-black text-xl text-zinc-700 tracking-tighter">
           UPCOMING TOUR PACKAGES
         </h1>

@@ -19,7 +19,7 @@ function ToursHero() {
           <div className="flex flex-row flex-wrap justify-center lg:gap-8 gap-5 py-6  text-sm lg:text-base overflow-x-scroll">
 
             {servicesData.map((service, index) => (
-              <div key={index} className="flex flex-row items-center bg-white shadow-md rounded-2xl p-5 gap-4 lg:w-[350px] w-80 hover:scale-[1.02]">
+              <div key={index} className="flex flex-row items-start bg-white shadow-md rounded-2xl p-5 gap-4 lg:w-[350px] w-80 hover:scale-[1.02]">
 
                 <div className="bg-[#406D83] shadow-lg text-white p-3 rounded-full">
                   {service.icon}

@@ -20,7 +20,7 @@ function Footer() {
           <h1>123 Adventure Avenue</h1>
           <h1>WANDR 12345</h1>
 
-          <div className="flex gap-3 pt-3">
+          <div className="flex flex-row items-center gap-3 pt-3">
             <span><IoIosMail /> </span>
             <span>info@wanderwave.com</span>
             </div>
