@@ -26,8 +26,8 @@ export default function Hero() {
           </div>
 
           <h1 className="md:text-3xl text-zinc-800 tracking-tight">
-            Experience life through travel and enjoyment, let's get started to
-            become an explorer.
+            Experience life through travel and enjoyment, let&apos;s get started
+            to become an explorer.
           </h1>
 
           <Link to="/tours">
